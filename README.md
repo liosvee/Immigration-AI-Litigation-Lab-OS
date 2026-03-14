@@ -280,11 +280,6 @@ Build an AI-powered litigation operating system that helps immigration lawyers m
 
 ---
 
-## License
-
-Add your preferred license here, for example:
-
-`MIT License`
 
 or
 
