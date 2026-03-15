@@ -2,6 +2,8 @@
 
 AI-powered operating system for immigration litigators.
 
+https://chatgpt.com/g/g-69b5b76e2d2c81918d6648d99c5844fe-immigration-ai-litigation-lab-os
+
 ## Overview
 
 **Immigration AI Litigation Lab OS** is a legal workflow system designed to support immigration litigation teams with faster case analysis, better issue spotting, stronger motion strategy, structured drafting, and jurisdiction-aware legal research.
